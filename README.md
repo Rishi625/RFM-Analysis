@@ -1,5 +1,5 @@
 # RFM-Analysis
-
+# Data Set - https://www.kaggle.com/datasets/carrie1/ecommerce-data
 This notebook demonstrates the process of performing RFM (Recency, Frequency, Monetary) analysis on customer data. RFM analysis is a marketing technique used to segment customers based on their purchasing behavior.
 
 The notebook is structured as follows:
